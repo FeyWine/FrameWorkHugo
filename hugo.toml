@@ -1,0 +1,4 @@
+baseURL = 'https://feywine.github.io'
+languageCode = 'fr'
+title = 'Test FrameWork'
+theme = 'ananke'
